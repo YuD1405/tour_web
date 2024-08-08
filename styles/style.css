@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+}
+.custom_font {
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.custom_font_header_1 {
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.custom_font_header_2 {
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.custom_font_header_3 {
+    font-size: 23px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+divider {
+border-top: 1px solid #ccc;
+margin: 20px 0;
+}
+footer {
+background-color: #f0f0f0;
+padding: 20px;
+text-align: center;
+margin-top: 20px;
+}   
